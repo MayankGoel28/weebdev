@@ -1,0 +1,7 @@
+POST http://localhost:3001/api/localhost:3001/api/applications
+Content-Type: application/json 
+Authorization: bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6InJlYzQiLCJpZCI6IjYwMGI0ZmY0ODQzOTQzZjMxYTFhMzdlMCIsImlhdCI6MTYxMTM1NDExM30.MxREfJnod9oaKix4p_wT1mKwA2nlQ29BKqUYdiJD3zk
+
+{
+"title": "Listing#4", "company": "C#3"
+}

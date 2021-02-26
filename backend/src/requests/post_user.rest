@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/applicants
+Content-Type: application/json
+
+{
+"username": "app8", "name": "app8", "password": "1", "instituteName": "IIT"
+}

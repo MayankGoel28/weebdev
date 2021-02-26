@@ -1,0 +1,6 @@
+PUT http://localhost:3001/api/listings/600d7f958ff310e6ee7cc503
+Content-Type: application/json 
+
+{
+"title": "Job#2"
+}

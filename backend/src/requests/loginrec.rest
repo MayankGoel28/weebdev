@@ -1,0 +1,6 @@
+POST http://localhost:3001/api/loginRecruiter
+Content-Type: application/json
+
+{
+"username": "rec4", "password": "1"
+}
