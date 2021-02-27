@@ -8,7 +8,7 @@ This is a barebones version of a job application/acceptance application made usi
 npx create-react-app frontend
 cd frontend
 ```
-now replace src and package.json, install the packages using ```npm install``` and use ```npm start``` to start
+Now replace src and package.json, install the packages using ```npm install``` and use ```npm start``` to start
 
 ## Backend
 
@@ -16,4 +16,4 @@ now replace src and package.json, install the packages using ```npm install``` a
 mkdir backend && cd backend
 npm init
 ```
-now replace src and package.json, install the packages using ```npm install``` and use ```node index.js ``` to start
+Now replace src and package.json, install the packages using ```npm install``` and use ```node index.js ``` to start
